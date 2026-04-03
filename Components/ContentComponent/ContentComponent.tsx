@@ -15,6 +15,7 @@ export default function ContentComponent() {
         after his death. A production company called Magic City got the rights
         to Dean's image from the late actor's estate...
       </div>
+      <div className="divider"></div>
     </div>
   );
 }

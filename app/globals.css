@@ -22,6 +22,7 @@ body {
   display: flex;
 }
 
-.hr{
-  
+.divider{
+  height: 1px solid #fff;
+  width: 100%;
 }
