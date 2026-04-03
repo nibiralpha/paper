@@ -17,28 +17,3 @@
   justify-content: space-between;
 }
 
-.content_area {
-  position: absolute;
-  bottom: 10px;
-  width: 63%;
-}
-
-.head_1 {
-  font-size: 2.2em;
-  color: #999999;
-}
-
-.date_category {
-  display: flex;
-  align-items: center;
-  margin: 20px 0;
-}
-
-.date {
-  font-size: 0.8em;
-  color: rgba(255, 252, 252, 0.5);
-}
-
-.detail {
-  color: rgba(255, 252, 252, 0.5);
-}
